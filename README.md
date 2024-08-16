@@ -1,3 +1,5 @@
+NOTE: Dataset is available on Hugging Face at https://huggingface.co/datasets/RashidHaddad/ECTHR-PCR.
+
 Official dataset for the paper "ECtHR-PCR: A Dataset for Precedent Understanding and Prior Case Retrieval in the European Court of Human Rights".
 
 Dataset is provided as a json file. Each ECHR application number maps to a json object which includes:
